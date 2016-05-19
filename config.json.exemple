@@ -1,0 +1,9 @@
+{
+  "link": "https://api.github.com/repos/:owner/:repo/stats/contributors",
+  "owner": "",
+  "repo": "",
+  "nbrInTop": 3,
+  "topCondition": 'c',
+  "slackHookUrl" : "https://hooks.slack.com/services/....",
+  "channel" : "#general"
+}

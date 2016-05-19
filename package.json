@@ -1,0 +1,23 @@
+{
+  "name": "top-week-contrib-github-slack",
+  "version": "1.0.0",
+  "description": "Node.JS script created to send to slack the top X contributors of a given repository to Slack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BernardJeremy/top-week-contrib-github-slack.git"
+  },
+  "author": "BernardJeremy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BernardJeremy/top-week-contrib-github-slack/issues"
+  },
+  "homepage": "https://github.com/BernardJeremy/top-week-contrib-github-slack#readme",
+  "dependencies": {
+    "request": "^2.69.0",
+    "slack-node": "^0.2.0"
+  }
+}
